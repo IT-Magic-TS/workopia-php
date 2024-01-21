@@ -1,0 +1,7 @@
+/vendor
+/node_modules
+/config/db.php
+/workopia-theme
+.env
+.vscode
+.DS_Store
